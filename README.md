@@ -20,4 +20,8 @@ Clone the repo:
 git clone https://github.com/mShubham18/DataScience-Projects-GitHub-Top30-Repositories-Data-Scrapping.git
 cd DataScience-Projects-GitHub-Top30-Repositories-Data-Scrapping
 ```
+### NOTES
+- Data folder contains all the output csv's
+- ``Notebook.ipynb`` is the jupyter notebook file containing the entire project source code.
+
 #### Keep Coding ;)
